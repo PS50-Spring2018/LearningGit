@@ -1,3 +1,3 @@
 # Simple Python script printing "Hello World"
 
-print("Hello World and Universe")
+print("Hello World")
